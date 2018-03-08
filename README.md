@@ -10,10 +10,12 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [Attack Wiki](https://attack.mitre.org/wiki/Groups)
 * [threat-INTel](https://github.com/fdiskyou/threat-INTel)
 * [targetedthreats](https://github.com/botherder/targetedthreats/wiki/Reports)
+* 🍎 [Raw Threat Intelligence](https://docs.google.com/document/d/1oYX3uN6KxIX_StzTH0s0yFNNoHDnV8VgmVqU5WoeErc/edit)
 
 
 ## 2018
 * Mar 02 - [[McAfee] McAfee Uncovers Operation Honeybee, a Malicious Document Campaign Targeting Humanitarian Aid Groups](https://securingtomorrow.mcafee.com/mcafee-labs/mcafee-uncovers-operation-honeybee-malicious-document-campaign-targeting-humanitarian-aid-groups/) | [Local](../../blob/master/2018/2018.03.02.Operation_Honeybee) 
+* Mar 01 - [[Security 0wnage] A Quick Dip into MuddyWater's Recent Activity](https://sec0wn.blogspot.tw/2018/03/a-quick-dip-into-muddywaters-recent.html) | [Local](../../blob/master/2018/2018.03.01.a-quick-dip-into-muddywaters-recent) 
 * Feb 28 - [[Palo Alto Networks] Sofacy Attacks Multiple Government Entities](https://researchcenter.paloaltonetworks.com/2018/02/unit42-sofacy-attacks-multiple-government-entities/) | [Local](../../blob/master/2018/2018.02.28.sofacy-attacks-multiple-government-entities) 
 * Feb 28 - [[Symantec] Chafer: Latest Attacks Reveal Heightened Ambitions](https://www.symantec.com/blogs/threat-intelligence/chafer-latest-attacks-reveal-heightened-ambitions) | [Local](../../blob/master/2018/2018.02.28.Chafer_Latest_Attacks_Reveal) 
 * Feb 21 - [[Avast] Avast tracks down Tempting Cedar Spyware](https://blog.avast.com/avast-tracks-down-tempting-cedar-spyware) | [Local](../../blob/master/2018/2018.02.21.Tempting_Cedar) 
